@@ -1,0 +1,9 @@
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\The_Pirate_Bay.dll
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\The_Pirate_Bay.pdb
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\HtmlAgilityPack.xml
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\The_Pirate_Bay.csproj.CoreCompileInputs.cache
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\The_Pirate_Bay.csproj.CopyComplete
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\The_Pirate_Bay.dll
+E:\Projects\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\The_Pirate_Bay.pdb
