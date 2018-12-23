@@ -22,22 +22,37 @@ IEnumerable<Torrent> torrents = Tpb.Search(new Query("troy"));
 The Tpb.Search() method returns a collection of Torrent objects, which have the following structure:
 
 Name: the name.
+
 Magnet: the magnet URI.
+
 File: a link to a .torrent file if the torrent have it. default: string.Empty
+
 Uploaded: the date of upload, with an unformatted TPB style.
+
+
 Size: a string containing a decimal number and a byte unit describing the size (i.e: "1.23 GiB").
+
 SizeBytes: the computed bytes in a decimal type for the Size property.
+
 Uled: the nickname of the creator.
+
 Seeds: the number of seeds.
+
 Leechers: the number of leechers.
+
 CategoryParent: the parent category (Audio, Video, Application, Games, Porn, Other).
+
 Category: the child category (i.e: "Movies").
+
 Comments: the comment count if the torrent have it. default: 0
+
 HasCoverImage: a flag indicating if it has a cover image. default: false
+
 IsTrusted: a flag indicating if the creator user is a trusted user. default: false
+
 IsVip: a flag indicating if the creator user is a VIP user. default: false
 
-Advanced query parameters with the Query Class
+# Advanced query parameters with the Query Class
 You can use the following query parameters if you want to:
 Order: a QueryOrder enum item.
 Category: a TPB's category ID. To use valid IDs, use the TorrentCategory members.
