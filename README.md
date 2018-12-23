@@ -66,14 +66,17 @@ Term: the search term.
 # More examples
 
 // Query the term "frozen", starting at the fourth page (index = 3).
+
 IEnumerable<Torrent> torrents = Tpb.Search(new Query("troy", 3));
   
   
 
 // Query the term "windows", starting at the third page, having the parent category equals to "Application".
+
 IEnumerable<Torrent> torrents = Tpb.Search(new Query("windows", 2, TorrentCategory.AllApplication));
   
   
 
 // Query the term "skyrim", starting at the first page, having the child category equals to "PC", and ordering by seeds.
+
 IEnumerable<Torrent> torrents = Tpb.Search(new Query("skyrim", 0, TorrentCategory.Games.PC, QueryOrder.BySeeds));
