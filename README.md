@@ -70,10 +70,12 @@ Term: the search term.
 IEnumerable<Torrent> torrents = Tpb.Search(new Query("troy", 3));
   
   
+  
 
 // Query the term "windows", starting at the third page, having the parent category equals to "Application".
 
 IEnumerable<Torrent> torrents = Tpb.Search(new Query("windows", 2, TorrentCategory.AllApplication));
+  
   
   
 
