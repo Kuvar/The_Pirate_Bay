@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using HtmlAgilityPack;
-using System.Net;
-using System.IO;
-using System.Globalization;
-
-namespace The_Pirate_Bay
+﻿namespace The_Pirate_Bay
 {
-	public class Tpb
+    using System.IO;
+    using System.Net;
+    using System.Linq;
+    using HtmlAgilityPack;
+    using System.Globalization;
+    using System.Collections.Generic;
+    public class Tpb
 	{
 		public static IEnumerable<Torrent> Search(Query query)
 		{

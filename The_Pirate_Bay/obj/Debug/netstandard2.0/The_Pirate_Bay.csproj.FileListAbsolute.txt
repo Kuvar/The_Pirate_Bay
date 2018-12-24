@@ -1,0 +1,9 @@
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\netstandard2.0\The_Pirate_Bay.deps.json
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\netstandard2.0\The_Pirate_Bay.dll
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\netstandard2.0\The_Pirate_Bay.csproj.CoreCompileInputs.cache
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\netstandard2.0\The_Pirate_Bay.AssemblyInfoInputs.cache
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\netstandard2.0\The_Pirate_Bay.AssemblyInfo.cs
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\bin\Debug\netstandard2.0\The_Pirate_Bay.pdb
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\netstandard2.0\The_Pirate_Bay.dll
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\netstandard2.0\The_Pirate_Bay.pdb
+C:\Users\KUVAR\source\repos\The_Pirate_Bay\The_Pirate_Bay\obj\Debug\netstandard2.0\The_Pirate_Bay.csprojAssemblyReference.cache

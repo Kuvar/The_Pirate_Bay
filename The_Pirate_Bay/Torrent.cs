@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace The_Pirate_Bay
+﻿namespace The_Pirate_Bay
 {
     public class Torrent
     {

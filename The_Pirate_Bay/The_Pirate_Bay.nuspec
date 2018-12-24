@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ThePirateBay</id>
+    <version>1.0.0.7</version>
+    <title>ThePirateBay is a .NET API to make torrent searches in The Pirate Bay website.</title>
+    <authors>Pankaj Singh</authors>
+    <owners>Pankaj Singh</owners>
+    <licenseUrl>https://github.com/Kuvar/The_Pirate_Bay</licenseUrl>
+    <projectUrl>https://github.com/Kuvar/The_Pirate_Bay</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Kuvar/The_Pirate_Bay/master/The_Pirate_Bay/image/torrent.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ThePirateBey is a .NET API to make torrent searches in The Pirate Bay website.</description>
+    <releaseNotes>Xamarin.Forms Support.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>ThePirateBay PirateBay torrent</tags>
+    <dependencies>
+      <group>
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="net">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="win">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="wp">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="wpa">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="netstandard2.0">
+        <dependency id="NETStandard.Library" version="2.0.3" />
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="MonoAndroid">
+        <dependency id="HtmlAgilityPack" version="1.4.9" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="MonoAndroid10">
+        <dependency id="HtmlAgilityPack" version="1.4.9.3" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="MonoAndroid7.1">
+        <dependency id="HtmlAgilityPack" version="1.6.10" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="MonoAndroid8.0">
+        <dependency id="HtmlAgilityPack" version="1.6.15" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="MonoAndroid8.1">
+        <dependency id="HtmlAgilityPack" version="1.8.2" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="MonoAndroid9.0">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="Xamarin.iOS10">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="Xamarin.Mac20">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="portable-net45+win+wpa81+wp80">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="uap">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="dotnet">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="xamarintvos">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+      <group targetFramework="xamarinwatchos">
+        <dependency id="HtmlAgilityPack" version="1.8.11" include="contentFiles, build, runtime, compile"/>
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\netstandard2.0\The_Pirate_Bay.*" target="lib\netstandard2.0"></file>
+  </files>
+</package>
